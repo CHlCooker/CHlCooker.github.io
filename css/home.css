@@ -123,7 +123,8 @@ html{
 
 .homelogo{
 	max-width: 400px;
-	height: auto;
+	/*height: auto;*/
+	height:  0px;
 	padding: 10px;
 	position: absolute;
 	top: 50%;
